@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "BumperSheet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 240,
+				"h": 20
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "BumperSheet-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 20,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 40,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 60,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 80,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 100,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 120,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 140,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 160,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 180,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 200,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "BumperSheet-11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 220,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:33f432de34251e3ed5bc65f70105b988:da6e854593930fe3cfe2e43d7b1f1996:581479927d0e28ac53158f5af2ead5ea$"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "HSBut.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 760,
+				"h": 158
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "HighScore-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 378,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 378,
+						"h": 156
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 378,
+						"h": 156
+					}
+				},
+				{
+					"filename": "HighScore-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 378,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 378,
+						"h": 156
+					},
+					"frame": {
+						"x": 381,
+						"y": 1,
+						"w": 378,
+						"h": 156
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cb15cb483f42cdb3becf74e0b7bbc415:24dd7495a2171da1b55b5fc19cecd141:38b642af84c446a513904cbc623ed404$"
+	}
+}

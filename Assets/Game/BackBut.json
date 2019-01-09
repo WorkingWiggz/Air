@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "BackBut.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 760,
+				"h": 158
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "BackToMenu-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 378,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 378,
+						"h": 156
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 378,
+						"h": 156
+					}
+				},
+				{
+					"filename": "BackToMenu-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 378,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 378,
+						"h": 156
+					},
+					"frame": {
+						"x": 381,
+						"y": 1,
+						"w": 378,
+						"h": 156
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4878eb072b8525240d04157fc07ccc6a:1bb76e90bc3f0820faf43422c79af8bf:aa754cc9e9d9141793ee48bd20cbf470$"
+	}
+}

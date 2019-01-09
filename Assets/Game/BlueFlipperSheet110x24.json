@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "BlueFlipperSheet110x24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 336,
+				"h": 26
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "FlipperSheet111x22-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 110,
+						"h": 24
+					}
+				},
+				{
+					"filename": "FlipperSheet111x22-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 24
+					},
+					"frame": {
+						"x": 113,
+						"y": 1,
+						"w": 110,
+						"h": 24
+					}
+				},
+				{
+					"filename": "FlipperSheet111x22-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 24
+					},
+					"frame": {
+						"x": 225,
+						"y": 1,
+						"w": 110,
+						"h": 24
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5f052912edd53daca73eea6bf29b66a3:c6e77606051f148a42138f8960841c95:acd411902540c7b6165af4e5882305e6$"
+	}
+}

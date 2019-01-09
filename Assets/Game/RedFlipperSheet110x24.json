@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "RedFlipperSheet110x24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 336,
+				"h": 26
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RedFlipperSheet111x22-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 110,
+						"h": 24
+					}
+				},
+				{
+					"filename": "RedFlipperSheet111x22-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 24
+					},
+					"frame": {
+						"x": 113,
+						"y": 1,
+						"w": 110,
+						"h": 24
+					}
+				},
+				{
+					"filename": "RedFlipperSheet111x22-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 24
+					},
+					"frame": {
+						"x": 225,
+						"y": 1,
+						"w": 110,
+						"h": 24
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0b4815cbb09b0b64799b31c3a4e3a6a4:05d7905dfb3d3ed03f231395cd49d2b9:964806810dacc3869d5ba425c5e62f21$"
+	}
+}
